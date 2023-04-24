@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kayo Werter
 
-- 🌱 Atualmente estou aprendendo Python e SQL
+- 🌱 Atualmente estou aprendendo Java
 - 📫 Como chegar até mim: kayo.werter1@gmail.com
 - 📄 Para mais informações acesse: https://www.linkedin.com/in/kayo-werter-1b2365231/
 

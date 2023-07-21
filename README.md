@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kayo Werter
 
-- 🌱 Atualmente estou aprendendo Java
+- 🌱 Atualmente estou aprendendo Desenvolvimento web com python
 - 📫 Como chegar até mim: kayo.werter1@gmail.com
 - 📄 Para mais informações acesse: https://www.linkedin.com/in/kayo-werter-1b2365231/
 
